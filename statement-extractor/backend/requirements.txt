@@ -1,0 +1,38 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.5
+pydantic-settings==2.7.1
+SQLAlchemy==2.0.36
+PyMuPDF==1.25.2
+Pillow==11.1.0
+numpy>=1.26
+python-dateutil==2.9.0.post0
+
+# Locale data (CLDR): month names in ~1000 locales, number separators,
+# currency precision and territory currencies. Makes "any country" data-driven.
+babel==2.18.0
+
+# --- OCR (images and scanned PDFs) -----------------------------------------
+# OCR and layout analysis sit behind service abstractions (OCRService /
+# StructureAnalyzer), so the app still runs if no OCR engine is installed:
+# text PDFs work, scans report that OCR is unavailable.
+#
+# pytesseract also needs the Tesseract binary on PATH:
+#   Windows:  winget install UB-Mannheim.TesseractOCR
+#   macOS:    brew install tesseract
+#   Linux:    apt install tesseract-ocr
+pytesseract==0.3.13
+
+# Default OCR for scanned statements: pure pip (ONNX), no admin rights or
+# system binary needed. Probed after Tesseract unless OCR_ENGINE says otherwise.
+rapidocr-onnxruntime==1.2.3
+
+# PP-StructureV3 is the intended layout engine but has no wheels for
+# Python 3.13; on Python <= 3.12 install it to enable the PP-Structure adapter:
+#   pip install paddlepaddle paddleocr
+
+# --- Optional language-model engine (EXTRACTION_ENGINE=groq|hybrid) ----------
+# Imported only when external calls are explicitly enabled; the local engine
+# never needs it. Model: openai/gpt-oss-20b with strict JSON-schema output.
+groq==1.7.0

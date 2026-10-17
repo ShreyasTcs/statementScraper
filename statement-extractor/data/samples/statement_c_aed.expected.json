@@ -1,0 +1,214 @@
+{
+  "header": {
+    "bank_name": "Gulf Crescent Bank PJSC",
+    "account_holder": "FATIMA AL-HASHIMI",
+    "iban": "AE070331234567890123456",
+    "branch": "Deira Main Branch",
+    "period_from": "2025-02-01",
+    "period_to": "2025-02-28",
+    "opening_balance": "18750.00",
+    "closing_balance": "37896.65",
+    "currency": "AED"
+  },
+  "absent": [
+    "ifsc",
+    "customer_id",
+    "account_type",
+    "total_debits",
+    "total_credits"
+  ],
+  "rows": [
+    {
+      "date": "2025-02-02",
+      "debit": "6329.25",
+      "credit": null,
+      "balance": "12420.75"
+    },
+    {
+      "date": "2025-02-02",
+      "debit": null,
+      "credit": "42817.60",
+      "balance": "55238.35"
+    },
+    {
+      "date": "2025-02-03",
+      "debit": "1157.87",
+      "credit": null,
+      "balance": "54080.48"
+    },
+    {
+      "date": "2025-02-03",
+      "debit": null,
+      "credit": "40394.07",
+      "balance": "94474.55"
+    },
+    {
+      "date": "2025-02-04",
+      "debit": "28641.04",
+      "credit": null,
+      "balance": "65833.51"
+    },
+    {
+      "date": "2025-02-05",
+      "debit": "15108.57",
+      "credit": null,
+      "balance": "50724.94"
+    },
+    {
+      "date": "2025-02-10",
+      "debit": null,
+      "credit": "4554.36",
+      "balance": "55279.30"
+    },
+    {
+      "date": "2025-02-12",
+      "debit": "19687.52",
+      "credit": null,
+      "balance": "35591.78"
+    },
+    {
+      "date": "2025-02-13",
+      "debit": null,
+      "credit": "37316.75",
+      "balance": "72908.53"
+    },
+    {
+      "date": "2025-02-14",
+      "debit": "3129.15",
+      "credit": null,
+      "balance": "69779.38"
+    },
+    {
+      "date": "2025-02-14",
+      "debit": null,
+      "credit": "16610.27",
+      "balance": "86389.65"
+    },
+    {
+      "date": "2025-02-15",
+      "debit": "9501.16",
+      "credit": null,
+      "balance": "76888.49"
+    },
+    {
+      "date": "2025-02-15",
+      "debit": "20945.45",
+      "credit": null,
+      "balance": "55943.04"
+    },
+    {
+      "date": "2025-02-15",
+      "debit": "37769.43",
+      "credit": null,
+      "balance": "18173.61"
+    },
+    {
+      "date": "2025-02-17",
+      "debit": "11335.10",
+      "credit": null,
+      "balance": "6838.51"
+    },
+    {
+      "date": "2025-02-17",
+      "debit": null,
+      "credit": "23882.31",
+      "balance": "30720.82"
+    },
+    {
+      "date": "2025-02-20",
+      "debit": "30098.19",
+      "credit": null,
+      "balance": "622.63"
+    },
+    {
+      "date": "2025-02-20",
+      "debit": null,
+      "credit": "36553.20",
+      "balance": "37175.83"
+    },
+    {
+      "date": "2025-02-20",
+      "debit": null,
+      "credit": "4340.16",
+      "balance": "41515.99"
+    },
+    {
+      "date": "2025-02-21",
+      "debit": "6984.92",
+      "credit": null,
+      "balance": "34531.07"
+    },
+    {
+      "date": "2025-02-21",
+      "debit": "30153.71",
+      "credit": null,
+      "balance": "4377.36"
+    },
+    {
+      "date": "2025-02-22",
+      "debit": "1136.01",
+      "credit": null,
+      "balance": "3241.35"
+    },
+    {
+      "date": "2025-02-22",
+      "debit": null,
+      "credit": "14195.60",
+      "balance": "17436.95"
+    },
+    {
+      "date": "2025-02-22",
+      "debit": "9539.77",
+      "credit": null,
+      "balance": "7897.18"
+    },
+    {
+      "date": "2025-02-24",
+      "debit": null,
+      "credit": "26569.55",
+      "balance": "34466.73"
+    },
+    {
+      "date": "2025-02-24",
+      "debit": null,
+      "credit": "24023.19",
+      "balance": "58489.92"
+    },
+    {
+      "date": "2025-02-26",
+      "debit": "28636.23",
+      "credit": null,
+      "balance": "29853.69"
+    },
+    {
+      "date": "2025-02-26",
+      "debit": "10134.60",
+      "credit": null,
+      "balance": "19719.09"
+    },
+    {
+      "date": "2025-02-26",
+      "debit": null,
+      "credit": "34923.58",
+      "balance": "54642.67"
+    },
+    {
+      "date": "2025-02-27",
+      "debit": "27499.46",
+      "credit": null,
+      "balance": "27143.21"
+    },
+    {
+      "date": "2025-02-27",
+      "debit": null,
+      "credit": "28517.55",
+      "balance": "55660.76"
+    },
+    {
+      "date": "2025-02-27",
+      "debit": "17764.11",
+      "credit": null,
+      "balance": "37896.65"
+    }
+  ]
+}

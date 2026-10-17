@@ -1,0 +1,7 @@
+# Tests: python -m pytest tests   (no network, no API key needed)
+pytest==9.1.1
+httpx==0.28.1
+# Only needed to regenerate the synthetic right-to-left test statements (tests/corpus.py).
+pyflakes
+python-bidi
+arabic-reshaper

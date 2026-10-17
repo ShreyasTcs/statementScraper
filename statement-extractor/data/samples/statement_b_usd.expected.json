@@ -1,0 +1,286 @@
+{
+  "header": {
+    "bank_name": "Harbor Trust Bank",
+    "account_holder": "JORDAN P. ELLIS",
+    "account_number": "000123456789",
+    "ifsc": "021000021",
+    "period_from": "2025-01-01",
+    "period_to": "2025-01-31",
+    "opening_balance": "4210.55",
+    "closing_balance": "57971.67",
+    "currency": "USD"
+  },
+  "absent": [
+    "branch",
+    "customer_id",
+    "account_type",
+    "total_debits",
+    "total_credits"
+  ],
+  "rows": [
+    {
+      "date": "2025-01-01",
+      "debit": null,
+      "credit": "14447.58",
+      "balance": "18658.13"
+    },
+    {
+      "date": "2025-01-01",
+      "debit": "15294.71",
+      "credit": null,
+      "balance": "3363.42"
+    },
+    {
+      "date": "2025-01-01",
+      "debit": null,
+      "credit": "9172.43",
+      "balance": "12535.85"
+    },
+    {
+      "date": "2025-01-01",
+      "debit": null,
+      "credit": "41382.03",
+      "balance": "53917.88"
+    },
+    {
+      "date": "2025-01-02",
+      "debit": "18664.68",
+      "credit": null,
+      "balance": "35253.20"
+    },
+    {
+      "date": "2025-01-02",
+      "debit": "22197.50",
+      "credit": null,
+      "balance": "13055.70"
+    },
+    {
+      "date": "2025-01-03",
+      "debit": null,
+      "credit": "20043.45",
+      "balance": "33099.15"
+    },
+    {
+      "date": "2025-01-03",
+      "debit": null,
+      "credit": "34386.11",
+      "balance": "67485.26"
+    },
+    {
+      "date": "2025-01-04",
+      "debit": null,
+      "credit": "9557.65",
+      "balance": "77042.91"
+    },
+    {
+      "date": "2025-01-05",
+      "debit": "6886.85",
+      "credit": null,
+      "balance": "70156.06"
+    },
+    {
+      "date": "2025-01-07",
+      "debit": "41784.03",
+      "credit": null,
+      "balance": "28372.03"
+    },
+    {
+      "date": "2025-01-07",
+      "debit": null,
+      "credit": "28653.38",
+      "balance": "57025.41"
+    },
+    {
+      "date": "2025-01-08",
+      "debit": "22161.54",
+      "credit": null,
+      "balance": "34863.87"
+    },
+    {
+      "date": "2025-01-09",
+      "debit": "661.75",
+      "credit": null,
+      "balance": "34202.12"
+    },
+    {
+      "date": "2025-01-10",
+      "debit": null,
+      "credit": "7606.12",
+      "balance": "41808.24"
+    },
+    {
+      "date": "2025-01-10",
+      "debit": "24732.00",
+      "credit": null,
+      "balance": "17076.24"
+    },
+    {
+      "date": "2025-01-12",
+      "debit": null,
+      "credit": "35807.81",
+      "balance": "52884.05"
+    },
+    {
+      "date": "2025-01-12",
+      "debit": "3339.81",
+      "credit": null,
+      "balance": "49544.24"
+    },
+    {
+      "date": "2025-01-12",
+      "debit": "13470.87",
+      "credit": null,
+      "balance": "36073.37"
+    },
+    {
+      "date": "2025-01-13",
+      "debit": "35898.72",
+      "credit": null,
+      "balance": "174.65"
+    },
+    {
+      "date": "2025-01-14",
+      "debit": null,
+      "credit": "4816.03",
+      "balance": "4990.68"
+    },
+    {
+      "date": "2025-01-14",
+      "debit": null,
+      "credit": "5695.65",
+      "balance": "10686.33"
+    },
+    {
+      "date": "2025-01-14",
+      "debit": null,
+      "credit": "41404.66",
+      "balance": "52090.99"
+    },
+    {
+      "date": "2025-01-15",
+      "debit": "6844.31",
+      "credit": null,
+      "balance": "45246.68"
+    },
+    {
+      "date": "2025-01-15",
+      "debit": "16588.15",
+      "credit": null,
+      "balance": "28658.53"
+    },
+    {
+      "date": "2025-01-16",
+      "debit": null,
+      "credit": "1527.57",
+      "balance": "30186.10"
+    },
+    {
+      "date": "2025-01-17",
+      "debit": "24027.21",
+      "credit": null,
+      "balance": "6158.89"
+    },
+    {
+      "date": "2025-01-17",
+      "debit": null,
+      "credit": "17325.77",
+      "balance": "23484.66"
+    },
+    {
+      "date": "2025-01-19",
+      "debit": null,
+      "credit": "28081.18",
+      "balance": "51565.84"
+    },
+    {
+      "date": "2025-01-19",
+      "debit": "20763.83",
+      "credit": null,
+      "balance": "30802.01"
+    },
+    {
+      "date": "2025-01-20",
+      "debit": null,
+      "credit": "38965.83",
+      "balance": "69767.84"
+    },
+    {
+      "date": "2025-01-21",
+      "debit": "27588.18",
+      "credit": null,
+      "balance": "42179.66"
+    },
+    {
+      "date": "2025-01-22",
+      "debit": null,
+      "credit": "42968.98",
+      "balance": "85148.64"
+    },
+    {
+      "date": "2025-01-23",
+      "debit": "4599.66",
+      "credit": null,
+      "balance": "80548.98"
+    },
+    {
+      "date": "2025-01-24",
+      "debit": null,
+      "credit": "21893.82",
+      "balance": "102442.80"
+    },
+    {
+      "date": "2025-01-24",
+      "debit": "18590.75",
+      "credit": null,
+      "balance": "83852.05"
+    },
+    {
+      "date": "2025-01-25",
+      "debit": null,
+      "credit": "14208.16",
+      "balance": "98060.21"
+    },
+    {
+      "date": "2025-01-25",
+      "debit": "13689.62",
+      "credit": null,
+      "balance": "84370.59"
+    },
+    {
+      "date": "2025-01-26",
+      "debit": "36876.46",
+      "credit": null,
+      "balance": "47494.13"
+    },
+    {
+      "date": "2025-01-27",
+      "debit": "14470.06",
+      "credit": null,
+      "balance": "33024.07"
+    },
+    {
+      "date": "2025-01-29",
+      "debit": null,
+      "credit": "18907.22",
+      "balance": "51931.29"
+    },
+    {
+      "date": "2025-01-29",
+      "debit": "3544.99",
+      "credit": null,
+      "balance": "48386.30"
+    },
+    {
+      "date": "2025-01-30",
+      "debit": "27370.31",
+      "credit": null,
+      "balance": "21015.99"
+    },
+    {
+      "date": "2025-01-31",
+      "debit": null,
+      "credit": "36955.68",
+      "balance": "57971.67"
+    }
+  ]
+}

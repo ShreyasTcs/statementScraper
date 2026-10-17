@@ -1,0 +1,346 @@
+{
+  "header": {
+    "bank_name": "MERIDIAN NATIONAL BANK LIMITED",
+    "account_holder": "RAHUL MOHAN SHARMA",
+    "account_number": "501044552201",
+    "ifsc": "MNBL0004521",
+    "branch": "Andheri West",
+    "customer_id": "CIF48210937",
+    "account_type": "Savings Account",
+    "period_from": "2025-04-01",
+    "period_to": "2025-04-30",
+    "opening_balance": "125430.55",
+    "closing_balance": "31232.31",
+    "total_debits": "718374.91",
+    "total_credits": "624176.67"
+  },
+  "absent": [
+    "currency"
+  ],
+  "rows": [
+    {
+      "date": "2025-04-01",
+      "debit": "36979.42",
+      "credit": null,
+      "balance": "88451.13"
+    },
+    {
+      "date": "2025-04-01",
+      "debit": "7004.61",
+      "credit": null,
+      "balance": "81446.52"
+    },
+    {
+      "date": "2025-04-02",
+      "debit": "1441.87",
+      "credit": null,
+      "balance": "80004.65"
+    },
+    {
+      "date": "2025-04-02",
+      "debit": "16675.55",
+      "credit": null,
+      "balance": "63329.10"
+    },
+    {
+      "date": "2025-04-02",
+      "debit": null,
+      "credit": "40862.69",
+      "balance": "104191.79"
+    },
+    {
+      "date": "2025-04-03",
+      "debit": "25538.54",
+      "credit": null,
+      "balance": "78653.25"
+    },
+    {
+      "date": "2025-04-03",
+      "debit": null,
+      "credit": "21690.89",
+      "balance": "100344.14"
+    },
+    {
+      "date": "2025-04-04",
+      "debit": "40602.75",
+      "credit": null,
+      "balance": "59741.39"
+    },
+    {
+      "date": "2025-04-05",
+      "debit": "16516.14",
+      "credit": null,
+      "balance": "43225.25"
+    },
+    {
+      "date": "2025-04-06",
+      "debit": null,
+      "credit": "32875.70",
+      "balance": "76100.95"
+    },
+    {
+      "date": "2025-04-06",
+      "debit": "17135.98",
+      "credit": null,
+      "balance": "58964.97"
+    },
+    {
+      "date": "2025-04-06",
+      "debit": null,
+      "credit": "11062.60",
+      "balance": "70027.57"
+    },
+    {
+      "date": "2025-04-07",
+      "debit": "30011.92",
+      "credit": null,
+      "balance": "40015.65"
+    },
+    {
+      "date": "2025-04-07",
+      "debit": "6338.50",
+      "credit": null,
+      "balance": "33677.15"
+    },
+    {
+      "date": "2025-04-08",
+      "debit": "32097.46",
+      "credit": null,
+      "balance": "1579.69"
+    },
+    {
+      "date": "2025-04-10",
+      "debit": null,
+      "credit": "38424.33",
+      "balance": "40004.02"
+    },
+    {
+      "date": "2025-04-11",
+      "debit": "30890.99",
+      "credit": null,
+      "balance": "9113.03"
+    },
+    {
+      "date": "2025-04-13",
+      "debit": null,
+      "credit": "16826.70",
+      "balance": "25939.73"
+    },
+    {
+      "date": "2025-04-15",
+      "debit": "9489.81",
+      "credit": null,
+      "balance": "16449.92"
+    },
+    {
+      "date": "2025-04-15",
+      "debit": "3505.29",
+      "credit": null,
+      "balance": "12944.63"
+    },
+    {
+      "date": "2025-04-15",
+      "debit": null,
+      "credit": "19940.31",
+      "balance": "32884.94"
+    },
+    {
+      "date": "2025-04-15",
+      "debit": null,
+      "credit": "21503.37",
+      "balance": "54388.31"
+    },
+    {
+      "date": "2025-04-15",
+      "debit": "43681.24",
+      "credit": null,
+      "balance": "10707.07"
+    },
+    {
+      "date": "2025-04-15",
+      "debit": "589.26",
+      "credit": null,
+      "balance": "10117.81"
+    },
+    {
+      "date": "2025-04-16",
+      "debit": null,
+      "credit": "21993.35",
+      "balance": "32111.16"
+    },
+    {
+      "date": "2025-04-17",
+      "debit": null,
+      "credit": "40915.05",
+      "balance": "73026.21"
+    },
+    {
+      "date": "2025-04-17",
+      "debit": "43354.25",
+      "credit": null,
+      "balance": "29671.96"
+    },
+    {
+      "date": "2025-04-17",
+      "debit": "21542.90",
+      "credit": null,
+      "balance": "8129.06"
+    },
+    {
+      "date": "2025-04-18",
+      "debit": null,
+      "credit": "42234.30",
+      "balance": "50363.36"
+    },
+    {
+      "date": "2025-04-18",
+      "debit": "38523.24",
+      "credit": null,
+      "balance": "11840.12"
+    },
+    {
+      "date": "2025-04-19",
+      "debit": "2492.45",
+      "credit": null,
+      "balance": "9347.67"
+    },
+    {
+      "date": "2025-04-20",
+      "debit": null,
+      "credit": "20532.34",
+      "balance": "29880.01"
+    },
+    {
+      "date": "2025-04-20",
+      "debit": null,
+      "credit": "36664.42",
+      "balance": "66544.43"
+    },
+    {
+      "date": "2025-04-20",
+      "debit": "29183.45",
+      "credit": null,
+      "balance": "37360.98"
+    },
+    {
+      "date": "2025-04-20",
+      "debit": "36498.43",
+      "credit": null,
+      "balance": "862.55"
+    },
+    {
+      "date": "2025-04-20",
+      "debit": null,
+      "credit": "28839.60",
+      "balance": "29702.15"
+    },
+    {
+      "date": "2025-04-21",
+      "debit": "14494.64",
+      "credit": null,
+      "balance": "15207.51"
+    },
+    {
+      "date": "2025-04-21",
+      "debit": null,
+      "credit": "36102.83",
+      "balance": "51310.34"
+    },
+    {
+      "date": "2025-04-21",
+      "debit": "43021.71",
+      "credit": null,
+      "balance": "8288.63"
+    },
+    {
+      "date": "2025-04-21",
+      "debit": null,
+      "credit": "13449.87",
+      "balance": "21738.50"
+    },
+    {
+      "date": "2025-04-23",
+      "debit": null,
+      "credit": "39354.18",
+      "balance": "61092.68"
+    },
+    {
+      "date": "2025-04-24",
+      "debit": "43201.00",
+      "credit": null,
+      "balance": "17891.68"
+    },
+    {
+      "date": "2025-04-25",
+      "debit": null,
+      "credit": "31539.04",
+      "balance": "49430.72"
+    },
+    {
+      "date": "2025-04-25",
+      "debit": "6416.78",
+      "credit": null,
+      "balance": "43013.94"
+    },
+    {
+      "date": "2025-04-26",
+      "debit": "33459.28",
+      "credit": null,
+      "balance": "9554.66"
+    },
+    {
+      "date": "2025-04-26",
+      "debit": null,
+      "credit": "13160.50",
+      "balance": "22715.16"
+    },
+    {
+      "date": "2025-04-26",
+      "debit": null,
+      "credit": "39313.07",
+      "balance": "62028.23"
+    },
+    {
+      "date": "2025-04-27",
+      "debit": "29946.91",
+      "credit": null,
+      "balance": "32081.32"
+    },
+    {
+      "date": "2025-04-28",
+      "debit": null,
+      "credit": "35217.87",
+      "balance": "67299.19"
+    },
+    {
+      "date": "2025-04-28",
+      "debit": "15965.42",
+      "credit": null,
+      "balance": "51333.77"
+    },
+    {
+      "date": "2025-04-28",
+      "debit": "2281.85",
+      "credit": null,
+      "balance": "49051.92"
+    },
+    {
+      "date": "2025-04-29",
+      "debit": "31329.90",
+      "credit": null,
+      "balance": "17722.02"
+    },
+    {
+      "date": "2025-04-29",
+      "debit": null,
+      "credit": "21673.66",
+      "balance": "39395.68"
+    },
+    {
+      "date": "2025-04-30",
+      "debit": "8163.37",
+      "credit": null,
+      "balance": "31232.31"
+    }
+  ]
+}

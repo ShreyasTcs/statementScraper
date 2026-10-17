@@ -1,0 +1,68 @@
+# Paths below are relative to this folder (claims/); the app lives in statement-extractor/.
+# Rules without a leading "/" match at any depth.
+
+# --- Secrets and local settings: never commit --------------------------------
+.env
+.env.*
+!.env.example
+
+# --- Data: only the synthetic samples and the docs are kept -------------------
+# Everything else in data/ is local or confidential:
+#   companySamples/  real company statements (confidential)
+#   uploads/, processed/  files uploaded to the app (may be company statements)
+#   statements.db, -wal, -shm, *.bak-*  the live database and its backups
+#   evaluations/, evaluation.db  PoC outputs (hold copies of statements and their text)
+#   corpus/, fuzz/  generated test statements (tests/corpus.py, tests/fuzz.py)
+/statement-extractor/data/*
+!/statement-extractor/data/samples/
+!/statement-extractor/data/docs/
+# Research notes written from the real company statements (figures, names): local only.
+/statement-extractor/data/docs/research.md
+/statement-extractor/data/docs/handover-report.md
+# Belt and braces: real statements and databases are never committed, wherever they are.
+companySamples/
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+*.db.bak*
+*.sqlite
+*.sqlite3
+
+# --- Python -----------------------------------------------------------------
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+build/
+
+# --- Node / frontend --------------------------------------------------------
+node_modules/
+dist/
+.vite/
+coverage/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Logs and temporary files -----------------------------------------------
+*.log
+*.tmp
+*.swp
+*~
+
+# --- Editors and operating systems ------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
